@@ -1,4 +1,10 @@
-colorscheme elflord
+" ------
+" Syntax
+" ------
+syntax on
+set t_Co=256
+colorscheme onehalfdark
+let g:airline_theme='onehalfdark'
 
 " ------
 " Indent
