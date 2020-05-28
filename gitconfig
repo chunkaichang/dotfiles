@@ -1,0 +1,9 @@
+[alias]
+    st = status -sb
+    ci = commit -v
+    co = checkout
+    aa = add -A :/
+    graph = log --all --graph --decorate --oneline
+
+[core]
+    excludesfile = ~/.gitignore_global
