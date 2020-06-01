@@ -10,3 +10,4 @@ cd dotfiles
 ./install
 ```
 
+[dotbot]: https://github.com/anishathalye/dotbot
