@@ -1,6 +1,9 @@
 " ------
 " Syntax
 " ------
+"filetype off
+"set runtimepath+=/home/chunkai/lilypond/usr/share/lilypond/current/vim
+"filetype on
 syntax on
 set t_Co=256
 colorscheme onehalfdark
@@ -18,6 +21,9 @@ set shiftwidth=4
 set expandtab
 
 let mapleader = ","
+
+" toggle code paste mode
+nmap <silent> <leader>p :set paste!<CR>
 
 " ----------
 " Navigation
