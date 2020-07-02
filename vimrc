@@ -1,9 +1,6 @@
 " ------
 " Syntax
 " ------
-"filetype off
-"set runtimepath+=/home/chunkai/lilypond/usr/share/lilypond/current/vim
-"filetype on
 syntax on
 set t_Co=256
 colorscheme onehalfdark
