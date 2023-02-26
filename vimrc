@@ -46,7 +46,7 @@ hi SpellBad cterm=underline
 
 " Remap visual block mode from Ctrl-v to q as it conflicts with paste on
 " Windows
-nnoremap q <C-v>
+nnoremap <leader>q <C-v>
 
 " Try to prevent bad habits like using the arrow keys for movement. This is
 " not the only possible bad habit. For example, holding down the h/j/k/l keys
